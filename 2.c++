@@ -4,7 +4,7 @@ using namespace std;
 int main() {
 
   int year;
-  cout << "Enter a year: ";
+  cout << "Enter a year of your choice ";
   cin >> year;
 
   // leap year if perfectly divisible by 400
